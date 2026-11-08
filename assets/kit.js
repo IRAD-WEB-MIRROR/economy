@@ -177,9 +177,9 @@
    "kit_isclosed": "Konkurs jabıldı",
    "kit_phone": "Tel.",
    "kit_nav": "Ministrlik jönündö",
-   "kh1": "Tört bazarda baalardı jumalık baykoo bashtaldı",
-   "kh2": "Sary-Bulak rayonunun tau-ken sektoruna investitsiya 216,6 million dollarga jetti",
-   "kh3": "Rekorddik hosul toguz ayda ayıl charba önümün IS 6,1 milliardga jetkirdi"
+   "kh1": "Kara-Bulakta ayıl charba tehnikasyna kyzmat körsötüü borboru achylat",
+   "kh2": "Tört bazarda baalardı jumalık baykoo bashtaldı",
+   "kh3": "Sary-Bulak rayonunun tau-ken sektoruna investitsiya 216,6 million dollarga jetti"
   },
   "ru": {
    "kit_home": "Главная",
@@ -223,9 +223,9 @@
    "kit_isclosed": "Конкурс завершён",
    "kit_phone": "Тел.",
    "kit_nav": "О министерстве",
-   "kh1": "На четырёх базарах начато еженедельное наблюдение за ценами",
-   "kh2": "Инвестиции в горнодобывающий сектор района Сары-Булак достигли 216,6 млн долларов США",
-   "kh3": "Рекордный урожай поднял объём сельхозпродукции ОЭЗ Ирад до 6,1 млрд сомов за девять месяцев"
+   "kh1": "В Кара-Булаке откроется сервисный центр для сельхозтехники к весеннему севу",
+   "kh2": "На четырёх базарах начато еженедельное наблюдение за ценами",
+   "kh3": "Инвестиции в горнодобывающий сектор района Сары-Булак достигли 216,6 млн долларов США"
   }
  }
 });
