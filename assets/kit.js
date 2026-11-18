@@ -197,9 +197,9 @@
    "kit_phone": "Tel.",
    "kit_board": "Zonanın bardık mamlekettik organdarının bosh orundarı Gubernatordun apparatının portalında da birge jarıyalanat:",
    "kit_nav": "Ministrlik jönündö",
-   "kh1": "Talas men Nurzhanda nan, jol kire jana otun baasy turuktuu",
-   "kh2": "Kara-Bulakta ayıl charba tehnikasyna kyzmat körsötüü borboru achylat",
-   "kh3": "Tört bazarda baalardı jumalık baykoo bashtaldı"
+   "kh1": "Ekonomika ministrligi: 2027-jyldyn büdjet proekti Mejliske adatyndagydai jönötülüp jatat",
+   "kh2": "Talas men Nurzhanda nan, jol kire jana otun baasy turuktuu",
+   "kh3": "Kara-Bulakta ayıl charba tehnikasyna kyzmat körsötüü borboru achylat"
   },
   "ru": {
    "kit_home": "Главная",
@@ -248,9 +248,9 @@
    "kit_phone": "Тел.",
    "kit_board": "Вакансии всех государственных органов Зоны также публикуются вместе на портале Аппарата губернатора:",
    "kit_nav": "О министерстве",
-   "kh1": "Хлеб, проезд и топливо в Таласе и Нуржане сохраняют цены в сомах",
-   "kh2": "В Кара-Булаке откроется сервисный центр для сельхозтехники к весеннему севу",
-   "kh3": "На четырёх базарах начато еженедельное наблюдение за ценами"
+   "kh1": "Министерство экономики: проект бюджета на 2027 год направляется в Мэджлис в установленном порядке",
+   "kh2": "Хлеб, проезд и топливо в Таласе и Нуржане сохраняют цены в сомах",
+   "kh3": "В Кара-Булаке откроется сервисный центр для сельхозтехники к весеннему севу"
   }
  }
 });
