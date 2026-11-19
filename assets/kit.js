@@ -197,9 +197,9 @@
    "kit_phone": "Tel.",
    "kit_board": "Zonanın bardık mamlekettik organdarının bosh orundarı Gubernatordun apparatının portalında da birge jarıyalanat:",
    "kit_nav": "Ministrlik jönündö",
-   "kh1": "Ekonomika ministrligi: 2027-jyldyn büdjet proekti Mejliske adatyndagydai jönötülüp jatat",
-   "kh2": "Talas men Nurzhanda nan, jol kire jana otun baasy turuktuu",
-   "kh3": "Kara-Bulakta ayıl charba tehnikasyna kyzmat körsötüü borboru achylat"
+   "kh1": "Investitsiyalardy Yntalandyruu Kyzmaty: 88 kelishim, 2,4 milliard dollar",
+   "kh2": "Ekonomika ministrligi: 2027-jyldyn büdjet proekti Mejliske adatyndagydai jönötülüp jatat",
+   "kh3": "Talas men Nurzhanda nan, jol kire jana otun baasy turuktuu"
   },
   "ru": {
    "kit_home": "Главная",
@@ -248,9 +248,9 @@
    "kit_phone": "Тел.",
    "kit_board": "Вакансии всех государственных органов Зоны также публикуются вместе на портале Аппарата губернатора:",
    "kit_nav": "О министерстве",
-   "kh1": "Министерство экономики: проект бюджета на 2027 год направляется в Мэджлис в установленном порядке",
-   "kh2": "Хлеб, проезд и топливо в Таласе и Нуржане сохраняют цены в сомах",
-   "kh3": "В Кара-Булаке откроется сервисный центр для сельхозтехники к весеннему севу"
+   "kh1": "Служба содействия инвестициям: 88 соглашений на 2,4 млрд долларов США с 2023 года",
+   "kh2": "Министерство экономики: проект бюджета на 2027 год направляется в Мэджлис в установленном порядке",
+   "kh3": "Хлеб, проезд и топливо в Таласе и Нуржане сохраняют цены в сомах"
   }
  }
 });
