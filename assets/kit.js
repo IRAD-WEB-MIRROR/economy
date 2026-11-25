@@ -197,9 +197,9 @@
    "kit_phone": "Tel.",
    "kit_board": "Zonanın bardık mamlekettik organdarının bosh orundarı Gubernatordun apparatının portalında da birge jarıyalanat:",
    "kit_nav": "Ministrlik jönündö",
-   "kh1": "Investitsiyalardy Yntalandyruu Kyzmaty: 88 kelishim, 2,4 milliard dollar",
-   "kh2": "Ekonomika ministrligi: 2027-jyldyn büdjet proekti Mejliske adatyndagydai jönötülüp jatat",
-   "kh3": "Talas men Nurzhanda nan, jol kire jana otun baasy turuktuu"
+   "kh1": "Küyüüchü mayga satuu salygy on ayda 9% östü: 468 million som",
+   "kh2": "Investitsiyalardy Yntalandyruu Kyzmaty: 88 kelishim, 2,4 milliard dollar",
+   "kh3": "Ekonomika ministrligi: 2027-jyldyn büdjet proekti Mejliske adatyndagydai jönötülüp jatat"
   },
   "ru": {
    "kit_home": "Главная",
@@ -248,9 +248,9 @@
    "kit_phone": "Тел.",
    "kit_board": "Вакансии всех государственных органов Зоны также публикуются вместе на портале Аппарата губернатора:",
    "kit_nav": "О министерстве",
-   "kh1": "Служба содействия инвестициям: 88 соглашений на 2,4 млрд долларов США с 2023 года",
-   "kh2": "Министерство экономики: проект бюджета на 2027 год направляется в Мэджлис в установленном порядке",
-   "kh3": "Хлеб, проезд и топливо в Таласе и Нуржане сохраняют цены в сомах"
+   "kh1": "Налог с продаж на топливо на АЗС за десять месяцев вырос на 9% и составил 468 млн сомов",
+   "kh2": "Служба содействия инвестициям: 88 соглашений на 2,4 млрд долларов США с 2023 года",
+   "kh3": "Министерство экономики: проект бюджета на 2027 год направляется в Мэджлис в установленном порядке"
   }
  }
 });
